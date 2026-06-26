@@ -32,7 +32,7 @@ function App() {
   const [casinoSearch, setCasinoSearch] = useState('')
 
   const casinos = [
-    'MM88','GG88', 'XX88', 'RR88', 'J88', 'AE888', 'WW88', 'FUN88', 'MU88', 'MB66', 'CM88', 'FLY88', '8KBET','JUN88', '78WIN', 'BL555', 'AU88', 'DF999', '789BET', 'HI88', 'SHBET',
+    'MM88','GG88', 'XX88', 'RR88', 'J88', 'AE888', 'WW88', 'FUN88', 'MU88', 'MB66', 'CM88', 'OK8386', 'OPEN88', 'C168', 'SC88', 'FLY88', '8KBET','JUN88', '78WIN', 'BL555', 'AU88', 'DF999', '789BET', 'HI88', 'SHBET',
     'F8BET', 'QQ88', 'NEW88', 'KUBET', 'LUCKY88', 'go88', 'sunwin', 'ok9', 'f168',
     'gk88', '6623', 's8', 'u888', 'sodo'
   ]
